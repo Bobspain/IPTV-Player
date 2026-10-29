@@ -1,0 +1,12 @@
+{
+  "appId": "com.reproductor.xtream",
+  "appName": "Reproductor Xtream",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

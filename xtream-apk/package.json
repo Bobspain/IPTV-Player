@@ -1,0 +1,13 @@
+{
+  "name": "reproductor-xtream",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "hls.js": "^1.5.0",
+    "mpegts.js": "^1.7.3"
+  }
+}
